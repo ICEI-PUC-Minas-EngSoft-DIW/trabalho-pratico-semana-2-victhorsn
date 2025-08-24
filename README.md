@@ -1,9 +1,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Victhor Guilherme
+- Matricula: 903255
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![inspeção](https://github.com/user-attachments/assets/f22a0997-157e-42c8-b22c-d519b128de35)
+
